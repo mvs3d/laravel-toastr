@@ -5,7 +5,7 @@
 
 Using Composer
 
-    composer require whossun/laravel-toastr
+    composer require m1guelpf/laravel-toastr
 
 Add the service provider to `config/app.php`
 
