@@ -1,4 +1,4 @@
-# laravel-toastr
+# laravel-toastr for laravel 5.5 
 
 
 ### install
@@ -7,17 +7,8 @@ Using Composer
 
     composer require m1guelpf/laravel-toastr
 
-Add the service provider to `config/app.php`
-
-```php
-Whossun\Toastr\ToastrServiceProvider::class,
-```
-
-Optionally include the Facade in config/app.php if you'd like.
-
-```php
-'Toastr'  => Whossun\Toastr\Facades\Toastr::class,
-```
+With laravel 5.5 you do not have to add serviceprovider manually
+Laravel 5.5 has auto discovery
 
 
 ### Options
