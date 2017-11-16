@@ -57,9 +57,8 @@ class Toastr
             $title = $message['title'] ?: null;
 
             $script .= 'toastr.' . $message['type'] .
-                '(\'' . $message['message'] .
-                "','$title" .
-                '\');';
+                '("' . $message['message'] .
+                 '","' . $title . '");';
         }
 
         $script .= '</script>';
