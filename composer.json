@@ -1,6 +1,6 @@
 {
     "name": "m1guelpf/laravel-toastr",
-    "description": "toastr.js for laravel 5.3",
+    "description": "toastr.js for laravel 5.5",
     "keywords": [
         "toastr",
         "notification",
