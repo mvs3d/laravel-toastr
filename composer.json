@@ -1,5 +1,5 @@
 {
-    "name": "m1guelpf/laravel-toastr",
+    "name": "mvs3d/laravel-toastr",
     "description": "toastr.js for laravel 5.5",
     "keywords": [
         "toastr",
@@ -7,7 +7,7 @@
         "laravel",
         "php"
     ],
-    "homepage": "https://github.com/m1guelpf/laravel-toastr",
+    "homepage": "https://github.com/mvs3d/laravel-toastr",
     "license": "MIT",
     "authors": [
         {
