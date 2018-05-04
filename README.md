@@ -5,7 +5,7 @@
 
 Using Composer
 
-    composer require m1guelpf/laravel-toastr
+    composer require mvs3d/laravel-toastr
 
 With laravel 5.5 you do not have to add serviceprovider manually
 Laravel 5.5 has auto discovery
